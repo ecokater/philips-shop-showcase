@@ -1,0 +1,6 @@
+# 展示仓库：仅保留文档与截图
+*.*
+!*.md
+!assets/**/*.png
+!.gitignore
+!LICENSE
